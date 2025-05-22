@@ -1,0 +1,150 @@
+Added Component: Designator=IC1(LQFP-48_LXE_LIT)
+Added Component: Designator=J1(SAMTEC_TS-125-G-A)
+Added Component: Designator=J2(SAMTEC_TS-125-G-A)
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=J2-25
+Added Net: Name=NetIC1_1
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Pin To Net: NetName=NetIC1_2 Pin=J2-24
+Added Net: Name=NetIC1_2
+Added Pin To Net: NetName=NetIC1_3 Pin=IC1-3
+Added Pin To Net: NetName=NetIC1_3 Pin=J2-23
+Added Net: Name=NetIC1_3
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_4 Pin=J2-22
+Added Net: Name=NetIC1_4
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_5 Pin=J2-21
+Added Net: Name=NetIC1_5
+Added Pin To Net: NetName=NetIC1_6 Pin=IC1-6
+Added Pin To Net: NetName=NetIC1_6 Pin=J2-20
+Added Net: Name=NetIC1_6
+Added Pin To Net: NetName=NetIC1_7 Pin=IC1-7
+Added Pin To Net: NetName=NetIC1_7 Pin=J2-19
+Added Net: Name=NetIC1_7
+Added Pin To Net: NetName=NetIC1_8 Pin=IC1-8
+Added Pin To Net: NetName=NetIC1_8 Pin=J2-18
+Added Net: Name=NetIC1_8
+Added Pin To Net: NetName=NetIC1_9 Pin=IC1-9
+Added Pin To Net: NetName=NetIC1_9 Pin=J2-17
+Added Net: Name=NetIC1_9
+Added Pin To Net: NetName=NetIC1_10 Pin=IC1-10
+Added Pin To Net: NetName=NetIC1_10 Pin=J2-16
+Added Net: Name=NetIC1_10
+Added Pin To Net: NetName=NetIC1_11 Pin=IC1-11
+Added Pin To Net: NetName=NetIC1_11 Pin=J2-15
+Added Net: Name=NetIC1_11
+Added Pin To Net: NetName=NetIC1_12 Pin=IC1-12
+Added Pin To Net: NetName=NetIC1_12 Pin=J2-14
+Added Net: Name=NetIC1_12
+Added Pin To Net: NetName=NetIC1_13 Pin=IC1-13
+Added Pin To Net: NetName=NetIC1_13 Pin=J2-13
+Added Net: Name=NetIC1_13
+Added Pin To Net: NetName=NetIC1_14 Pin=IC1-14
+Added Pin To Net: NetName=NetIC1_14 Pin=J2-12
+Added Net: Name=NetIC1_14
+Added Pin To Net: NetName=NetIC1_15 Pin=IC1-15
+Added Pin To Net: NetName=NetIC1_15 Pin=J2-11
+Added Net: Name=NetIC1_15
+Added Pin To Net: NetName=NetIC1_16 Pin=IC1-16
+Added Pin To Net: NetName=NetIC1_16 Pin=J2-10
+Added Net: Name=NetIC1_16
+Added Pin To Net: NetName=NetIC1_17 Pin=IC1-17
+Added Pin To Net: NetName=NetIC1_17 Pin=J2-09
+Added Net: Name=NetIC1_17
+Added Pin To Net: NetName=NetIC1_18 Pin=IC1-18
+Added Pin To Net: NetName=NetIC1_18 Pin=J2-08
+Added Net: Name=NetIC1_18
+Added Pin To Net: NetName=NetIC1_19 Pin=IC1-19
+Added Pin To Net: NetName=NetIC1_19 Pin=J2-07
+Added Net: Name=NetIC1_19
+Added Pin To Net: NetName=NetIC1_20 Pin=IC1-20
+Added Pin To Net: NetName=NetIC1_20 Pin=J2-06
+Added Net: Name=NetIC1_20
+Added Pin To Net: NetName=NetIC1_21 Pin=IC1-21
+Added Pin To Net: NetName=NetIC1_21 Pin=J2-05
+Added Net: Name=NetIC1_21
+Added Pin To Net: NetName=NetIC1_22 Pin=IC1-22
+Added Pin To Net: NetName=NetIC1_22 Pin=J2-04
+Added Net: Name=NetIC1_22
+Added Pin To Net: NetName=NetIC1_23 Pin=IC1-23
+Added Pin To Net: NetName=NetIC1_23 Pin=J2-03
+Added Net: Name=NetIC1_23
+Added Pin To Net: NetName=NetIC1_24 Pin=IC1-24
+Added Pin To Net: NetName=NetIC1_24 Pin=J2-01
+Added Pin To Net: NetName=NetIC1_24 Pin=J2-02
+Added Net: Name=NetIC1_24
+Added Pin To Net: NetName=NetIC1_25 Pin=IC1-25
+Added Pin To Net: NetName=NetIC1_25 Pin=J1-25
+Added Net: Name=NetIC1_25
+Added Pin To Net: NetName=NetIC1_26 Pin=IC1-26
+Added Pin To Net: NetName=NetIC1_26 Pin=J1-24
+Added Net: Name=NetIC1_26
+Added Pin To Net: NetName=NetIC1_27 Pin=IC1-27
+Added Pin To Net: NetName=NetIC1_27 Pin=J1-23
+Added Net: Name=NetIC1_27
+Added Pin To Net: NetName=NetIC1_28 Pin=IC1-28
+Added Pin To Net: NetName=NetIC1_28 Pin=J1-22
+Added Net: Name=NetIC1_28
+Added Pin To Net: NetName=NetIC1_29 Pin=IC1-29
+Added Pin To Net: NetName=NetIC1_29 Pin=J1-21
+Added Net: Name=NetIC1_29
+Added Pin To Net: NetName=NetIC1_30 Pin=IC1-30
+Added Pin To Net: NetName=NetIC1_30 Pin=J1-20
+Added Net: Name=NetIC1_30
+Added Pin To Net: NetName=NetIC1_31 Pin=IC1-31
+Added Pin To Net: NetName=NetIC1_31 Pin=J1-19
+Added Net: Name=NetIC1_31
+Added Pin To Net: NetName=NetIC1_32 Pin=IC1-32
+Added Pin To Net: NetName=NetIC1_32 Pin=J1-18
+Added Net: Name=NetIC1_32
+Added Pin To Net: NetName=NetIC1_33 Pin=IC1-33
+Added Pin To Net: NetName=NetIC1_33 Pin=J1-17
+Added Net: Name=NetIC1_33
+Added Pin To Net: NetName=NetIC1_34 Pin=IC1-34
+Added Pin To Net: NetName=NetIC1_34 Pin=J1-16
+Added Net: Name=NetIC1_34
+Added Pin To Net: NetName=NetIC1_35 Pin=IC1-35
+Added Pin To Net: NetName=NetIC1_35 Pin=J1-15
+Added Net: Name=NetIC1_35
+Added Pin To Net: NetName=NetIC1_36 Pin=IC1-36
+Added Pin To Net: NetName=NetIC1_36 Pin=J1-14
+Added Net: Name=NetIC1_36
+Added Pin To Net: NetName=NetIC1_37 Pin=IC1-37
+Added Pin To Net: NetName=NetIC1_37 Pin=J1-13
+Added Net: Name=NetIC1_37
+Added Pin To Net: NetName=NetIC1_38 Pin=IC1-38
+Added Pin To Net: NetName=NetIC1_38 Pin=J1-12
+Added Net: Name=NetIC1_38
+Added Pin To Net: NetName=NetIC1_39 Pin=IC1-39
+Added Pin To Net: NetName=NetIC1_39 Pin=J1-11
+Added Net: Name=NetIC1_39
+Added Pin To Net: NetName=NetIC1_40 Pin=IC1-40
+Added Pin To Net: NetName=NetIC1_40 Pin=J1-10
+Added Net: Name=NetIC1_40
+Added Pin To Net: NetName=NetIC1_41 Pin=IC1-41
+Added Pin To Net: NetName=NetIC1_41 Pin=J1-09
+Added Net: Name=NetIC1_41
+Added Pin To Net: NetName=NetIC1_42 Pin=IC1-42
+Added Pin To Net: NetName=NetIC1_42 Pin=J1-08
+Added Net: Name=NetIC1_42
+Added Pin To Net: NetName=NetIC1_43 Pin=IC1-43
+Added Pin To Net: NetName=NetIC1_43 Pin=J1-07
+Added Net: Name=NetIC1_43
+Added Pin To Net: NetName=NetIC1_44 Pin=IC1-44
+Added Pin To Net: NetName=NetIC1_44 Pin=J1-06
+Added Net: Name=NetIC1_44
+Added Pin To Net: NetName=NetIC1_45 Pin=IC1-45
+Added Pin To Net: NetName=NetIC1_45 Pin=J1-05
+Added Net: Name=NetIC1_45
+Added Pin To Net: NetName=NetIC1_46 Pin=IC1-46
+Added Pin To Net: NetName=NetIC1_46 Pin=J1-04
+Added Net: Name=NetIC1_46
+Added Pin To Net: NetName=NetIC1_47 Pin=IC1-47
+Added Pin To Net: NetName=NetIC1_47 Pin=J1-03
+Added Net: Name=NetIC1_47
+Added Pin To Net: NetName=NetIC1_48 Pin=IC1-48
+Added Pin To Net: NetName=NetIC1_48 Pin=J1-02
+Added Net: Name=NetIC1_48
+Added Pin To Net: NetName=NetIC1_49 Pin=J1-01
+Added Net: Name=NetIC1_49
