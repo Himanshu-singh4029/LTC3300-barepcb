@@ -1,1 +1,1 @@
-# LTC3300-barepcb
+# LTC3300-ALTIUM-Barepcb
